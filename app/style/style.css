@@ -48,3 +48,9 @@
 .block__read-rules {
   cursor: pointer;
 }
+
+.block-bonus {
+  border: 1px solid #ddd;
+  padding: 30px;
+  margin: 30px;
+}
